@@ -1,0 +1,1 @@
+/Users/diogo/Projetos/pizzaria/app/views/sales/show.blade.php
